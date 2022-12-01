@@ -5,11 +5,11 @@
 As a full-stack developer, each day presents a new opportunity to build my vision of the digital world one step at a time. By applying my coding skills to solve real-world problems.
 
    <!-- Social icons section -->
-<p align="center">
-  <a href="#"><img width="90px" alt="Facebook" title="Facebook" src="https://o.remove.bg/downloads/237a0e85-9b55-402c-bbe4-7ea262b0d49f/png-clipart-computer-icons-facebook-inc-youtube-facebook-messenger-facebook-blue-logo-removebg-preview.png"/></a>
-  <a href="#" ><img width="50px" alt="Facebook" class="image" style="color:white!important;background:white!important;" title="Facebook" src="https://o.remove.bg/downloads/9bd02da6-cc0f-43c2-95ce-84c1ffbd45a7/Screenshot_20200416-160512_2-removebg-preview.png"/></a>
-  <a href="https://dribbble.com/Christf1999"><img width="50px" alt="Dribble" style="color:white;background:white;" title="Dribble" src="https://o.remove.bg/downloads/1d767f31-a0e8-4aa7-98f8-9cd45e022ed1/R-removebg-preview.png"/></a>
-  <a href="https://dribbble.com/Christf1999"><img width="50px" alt="Linkedin" style="color:white;background:white;" title="Linkedin" src="https://o.remove.bg/downloads/5f2fd378-e2fc-432c-8b15-ad658d9c6b58/R__1_-removebg-preview.png"/></a>
+<p align="left">
+<a href="https://dev.to/@chris1234345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@chris1234345" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cristi tiftilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristi tiftilov" height="30" width="40" /></a>
+<a href="https://fb.com/cristi tf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cristi tf" height="30" width="40" /></a>
+<a href="https://dribbble.com/tiftilov cristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tiftilov cristian" height="30" width="40" /></a>
 </p>
 
 ---
