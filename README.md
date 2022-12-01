@@ -6,7 +6,7 @@ As a full-stack developer, each day presents a new opportunity to build my visio
 
    <!-- Social icons section -->
 <p align="left">
-<a href="https://dev.to/@chris1234345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@chris1234345" height="30" width="40" /></a>
+<a href="[https://dev.to/@chris1234345](https://dev.to/chris1234345)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@chris1234345" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/cristi tiftilov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristi tiftilov" height="30" width="40" /></a>
 <a href="https://fb.com/cristi tf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cristi tf" height="30" width="40" /></a>
 <a href="https://dribbble.com/tiftilov cristian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="tiftilov cristian" height="30" width="40" /></a>
