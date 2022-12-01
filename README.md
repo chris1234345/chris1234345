@@ -5,7 +5,6 @@
 As a full-stack developer, each day presents a new opportunity to build my vision of the digital world one step at a time. 
 By applying my coding skills to solve real-world problems.
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47b229er4vx7oheuep9frvqlexkhxoplcas2rfulpn&rid=giphy.gif&ct=g" >
 
    <!-- Social icons section -->
 <p align="left">
