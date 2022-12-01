@@ -28,13 +28,7 @@ As a full-stack developer, each day presents a new opportunity to build my visio
 
 
 
-#
 
-### 📊 Stats
-
-![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=chris1234345)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
